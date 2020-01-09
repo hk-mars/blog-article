@@ -12,7 +12,7 @@ git clone https://github.com/zlgopen/awtk.git
 
 git clone https://github.com/zlgopen/awtk-examples.git
 
-![image-20200108213036831](https://github.com/hk-mars/Blog-Article/edit/master/IoT/assets\image-20200108213036831.png)
+![image-20200108213036831](https://github.com/hk-mars/Blog-Article/edit/master/IoT/assets/image-20200108213036831.png)
 
 
 
