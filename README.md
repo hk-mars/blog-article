@@ -1,2 +1,2 @@
-# Blog-Article
+# blog article
 Some blog articles
